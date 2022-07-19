@@ -1,0 +1,697 @@
+[18:15:05] [main/INFO]: ModLauncher running: args [--username, AndrewV125, --version, forge-40.1.60, --gameDir, C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2, --assetsDir, C:\Users\andre\Twitch\Minecraft\Install\assets, --assetIndex, 1.18, --uuid, 9deec21f94724c47a5f6f9ae39a9ca5d, --accessToken, ????????, --clientId, YzM0MzRlZDktOTAxMi00NDYyLWEyZjktMjVlZmRmY2E2ODQz, --xuid, 2535406635041914, --userType, msa, --versionType, release, --width, 1024, --height, 768, --launchTarget, forgeclient, --fml.forgeVersion, 40.1.60, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914]
+[18:15:05] [main/INFO]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.1 by Microsoft
+[18:15:05] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/andre/Twitch/Minecraft/Install/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=CLIENT
+[18:15:06] [main/INFO]: Found mod file [1.18.2] SecurityCraft v1.9.1.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file absentbydesign-1.18.2-1.6.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file additionalbars-3.0.1-beta+1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file AdditionalEnchantedMiner-1.18.2-18.13.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file additionallanterns-1.0.1-mc1.18.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file advancedperipherals-1.18.2-0.7.15b.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file AdvancementPlaques-1.18.2-1.4.5.1.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file advgenerators-1.1.0.5-mc1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file AE2-Things-1.0.3-beta.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file AEInfinityBooster-1.18.2-1.1.0+9.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file AI-Improvements-1.18.2-0.5.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file AllTheCompressed-1.0.8-1.18.2-40.1.30.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file allthemodium-1.8.8-1.18.2-40.1.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file alltheores-1.9.9d-1.18.2-40.1.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file allthetweaks-1.9.4-1.18.2-40.1.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file angelring-1.18-1.5.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file antighost-1.18.1-forge39.0.9-1.1.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file Apotheosis-1.18.2-5.3.6.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file appleskin-forge-mc1.18-2.4.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file Applied-Botanics-1.0.1.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file Applied-Mekanistics-1.2.1.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file appliedenergistics2-11.1.4.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file Aquaculture-1.18.2-2.3.7.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file archers_paradox-1.18.2-1.6.1.6.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file architectury-4.5.76-forge.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file ars_nouveau-1.18.2-2.6.5.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file artifacts-1.18.2-4.1.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file AttributeFix-Forge-1.18.2-14.0.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file balm-3.1.0+0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file bambooeverything-1.2.7-build.14+mc1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file baubley-heart-canisters-1.18.2-1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file bdlib-1.19.3.7-mc1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file BetterAdvancements-1.18.2-0.2.1.132.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file BetterF3-1.2.5-Forge-1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file biggerreactors-1.18.2-0.6.0-beta.1.1.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file blockui-1.18.2-0.0.53-ALPHA.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file blockydoors-1.18-1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file BloodMagic-1.18.2-3.2.3-38.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file blue_skies-1.18.2-1.3.12.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file bonsaitrees3-3.1.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file Bookshelf-Forge-1.18.2-13.2.37.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file Botania-1.18.2-434.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file buildinggadgets-3.13.0-build.5+mc1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file bwncr-3.13.21.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file cabletiers-1.18.2-0.5461.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file caelus-forge-1.18.1-3.0.0.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file cc-tweaked-1.18.2-1.100.8.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file cfm-7.0.0-pre29-1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file charginggadgets-1.7.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file Chimes-1.1.2-1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file chipped-1.18.2-1.2.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file clickadv-1.18.2-2.5.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file clienttweaks-forge-1.18.1-7.1.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file cloth-config-6.2.62-forge.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file Clumps-forge-1.18.2-8.0.0+10.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file cofh_core-1.18.2-1.6.4.21.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file colytra-forge-1.18.1-5.2.0.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file comforts-forge-1.18.2-5.0.0.4.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file CommonCapabilities-1.18.2-2.8.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file compactmachines-4.3.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file configured-1.5.3-1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file connectedglass-1.1.4-forge-mc1.18.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file constructionwand-1.18.2-2.7.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file Controlling-forge-1.18.2-9.0+21.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file cookingforblockheads-forge-1.18.2-12.0.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file corail_woodcutter-1.18.2-2.3.5.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file CosmeticArmorReworked-1.18.2-v2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file Crafting-on-a-stick-1.18.1-1.0.1.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file craftingtweaks-forge-1.18.2-14.0.3.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file crashutilities-4.1.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file create-confectionery1.18.2_v1.0.8.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file create-mc1.18.2_v0.5.0c.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file creativecrafter-1.18.2-0.2121.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file creeperoverhaul-1.18.2-1.3.0-forge.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file Croptopia-1.18.2-FORGE-2.0.5.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file CTM-1.18.2-1.1.4+4.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file Cucumber-1.18.2-5.1.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file curioofundying-forge-1.18-5.3.0.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file curios-forge-1.18.2-5.0.7.1.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file curiouselytra-forge-1.18.1-5.0.1.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file CyclopsCore-1.18.2-1.15.1.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file DarkModeEverywhere-1.18.1-1.0.1.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file DarkPaintings-Forge-1.18.2-10.0.3.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file DarkUtilities-Forge-1.18.2-10.0.5.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file deepresonance-3.0.10.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file defaultoptions-forge-1.18.2-14.1.1.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file DimStorage-1.18.2-6.1.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file Ding-1.18-1.3.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file domum_ornamentum-1.18.2-1.0.55-ALPHA-universal.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file dpanvil-1.18.2-3.4.1.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file DungeonCrawl-1.18.2-2.3.10.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file DungeonsArise-1.18.2-2.1.50d-beta.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file durabilitytooltip-1.1.1-forge-mc1.18.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file eccentrictome-1.18.2-1.3.1.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file elementalcraft-1.18.2-4.4.11.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file elevatorid-1.18.2-1.8.4.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file EnchantmentDescriptions-Forge-1.18.2-10.0.5.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file enderchests-1.18-1.9.5.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file endertanks-1.18-1.11.7.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file engineersdecor-1.18.2-1.1.23.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file Enhanced_Celestials-forge-1.18.2-2.0.7.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file ensorcellation-1.18.2-1.6.1.8.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file entangled-1.3.11-forge-mc1.18.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file Entity_Collision_FPS_Fix-forge-1.18.2-1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file entityculling-forge-mc1.18-1.5.1.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file EvilCraft-1.18.2-1.2.3.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file expandability-6.0.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file ExperienceBugFix-1.18-1.38.0.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file ExtraDisks-1.18.2-2.1.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file ExtraStorage-1.18.2-2.1.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file extremesoundmuffler-3.27_forge-1.18.x.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file FarmersDelight-1.18.2-1.1.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file farmingforblockheads-forge-1.18.2-10.0.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file farsight-1.18.2-1.9.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file FastFurnace-1.18.2-6.0.3.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file FastLeafDecay-28.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file FastSuite-1.18.2-3.0.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file FastWorkbench-1.18.2-6.0.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file feature_nbt_deadlock_be_gone_forge-2.0.0+1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file ferritecore-4.2.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file findme-3.0.6-forge.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file flickerfix-2.0.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file FluxNetworks-1.18.2-7.0.2.3.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file flywheel-forge-1.18-0.6.4.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file forbidden_arcanus-1.18.2-2.1.0-beta2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file FpsReducer2-forge-1.18.2-2.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file FramedBlocks-5.4.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file ftb-chunks-forge-1802.3.6-build.147.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file ftb-essentials-1802.1.7-build.42.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file ftb-industrial-contraptions-1802.1.6-build.182.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file ftb-library-forge-1802.3.6-build.123.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file ftb-quests-forge-1802.3.8-build.101.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file ftb-ranks-forge-1802.1.8-build.34.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file ftb-teams-forge-1802.2.6-build.51.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file ftb-ultimine-forge-1802.3.3-build.55.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file ftbbackups2-forge-1.18.2-1.0.11.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file functionalstorage-1.18.2-0.0.19.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file geckolib-forge-1.18-3.0.28.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file getittogetherdrops-1.18.2-1.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file glassential-forge-1.18.2-1.2.3.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file hexcasting-forge-1.18.2-0.9.1.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file hexerei-0.1.19.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file HostileNeuralNetworks-1.18.2-3.1.1.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file Iceberg-1.18.2-1.0.44.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file ImmersiveEngineering-1.18.2-8.0.2-149.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file incontrol-1.18-6.0.12.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file industrial-foregoing-1.18.2-3.3.1.4-8.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file IntegratedCrafting-1.18.2-1.0.23.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file IntegratedDynamics-1.18.2-1.11.5.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file IntegratedTerminals-1.18.2-1.3.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file IntegratedTunnels-1.18.2-1.8.12.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file InventoryProfilesNext-forge-1.18.2-1.6.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file ironchests-2.0.3-forge.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file ironfurnaces-1.18.2-3.3.1.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file IronJetpacks-1.18.2-5.1.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file item-filters-forge-1802.2.7-build.29.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file itemcollectors-1.1.5-mc1.18.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file jeed-1.18.2-1.11.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file jei-1.18.2-9.7.0.209.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file jmi-forge-1.18.2-0.11-75.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file journeymap-1.18.2-5.8.5-forge.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file jumpboat-1.18.2-0.1.0.3.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file JustEnoughProfessions-1.18.2-1.2.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file JustEnoughResources-1.18.2-0.14.1.171.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file Kiwi-1.18.2-forge-6.1.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file kotlinforforge-3.6.0-obf.jar of type LANGPROVIDER with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file kubejs-create-forge-1802.2.2-build.26.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file kubejs-forge-1802.5.4-build.510.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file kubejs-immersive-engineering-1802.2.1-build.35.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file kubejs-mekanism-1802.1.3-build.8.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file laserio-1.3.1.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file lazierae2-1.18.2-3.0.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file lazydfu-1.0-1.18+.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file LegendaryTooltips-1.18.2-1.2.5.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file libnonymous-2.1.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file LibX-1.18.2-3.2.18.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file LightingWand-1.18.2-forge-4.0.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file littlecontraptions-forge-1.18.2.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file littlelogistics-mc1.18.2-v1.2.5.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file logprot-1.18.2-1.6.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file lootr-1.18.2-0.2.17.54.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file lostcities-1.18-5.3.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file mahoutsukai-1.18.2-v1.34.27.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file Mantle-1.18.2-1.9.27.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file mcjtylib-1.18-6.0.15.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file mcw-bridges-2.0.3-mc1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file mcw-doors-1.0.6-mc1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file mcw-fences-1.0.5-mc1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file mcw-lights-1.0.3-mc1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file mcw-roofs-2.1.2-mc1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file mcw-trapdoors-1.0.6-mc1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file mcw-windows-2.0.3-mc1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file MEGACells-1.3.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file Mekanism-1.18.2-10.2.4.464.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file MekanismGenerators-1.18.2-10.2.4.464.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file MekanismTools-1.18.2-10.2.4.464.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file minecolonies-1.18.2-1.0.877-BETA.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file mininggadgets-1.11.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file mob_grinding_utils-1.18.2-0.4.40.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file modnametooltip-1.18.1-1.18.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file modular-routers-1.18.2-9.1.1-93.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file moreminecarts-1.4.6.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file moreoverlays-1.20.5-mc1.18.1.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file MouseTweaks-forge-mc1.18-2.21.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file multi-piston-1.18.2-1.2.13-ALPHA (1).jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file myrtrees-forge-1.1.0-build.29.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file MyServerIsCompatible-1.18-1.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file MysticalAgradditions-1.18.2-5.1.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file MysticalAgriculture-1.18.2-5.1.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file MysticalCustomization-1.18.2-3.1.1.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file MythicBotany-1.18.2-2.1.9.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file NaturesAura-36.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file NaturesCompass-1.18.2-1.9.7-forge.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file netherportalfix-forge-1.18-9.0.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file nomowanderer-1.18.2_1.1.3.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file novillagerdm-1.18.1-3.0.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file observable-2.2.3-forge.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file occultism-1.18.2-1.36.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file Oh_The_Biomes_You'll_Go-forge-1.18.2-1.4-RC-24.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file omgourd-1.18.2-1.6.1.5.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file PackMenu-1.18.2-4.1.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file Patchouli-1.18.2-71.1.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file paucal-forge-1.18.2-0.4.7.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file phosphophyllite-1.18.2-0.6.0-beta.1.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file PigPen-Forge-1.18.2-8.0.1.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file pipez-1.18.2-1.1.5.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file Placebo-1.18.2-6.4.1.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file platforms-1.18-1.9.4.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file pneumaticcraft-repressurized-1.18.2-3.3.1-110.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file polylib-forge-1801.0.2-build.13.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file polymorph-forge-1.18.2-0.44.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file ponderjs-1.18.2-1.1.7.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file potionsmaster-0.5.8-1.18.2-40.1.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file Powah-3.0.1-beta.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file productivebees-1.18.2-0.9.0.9.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file pylons-1.18.2-2.1.1.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file quartz-1.18.2-0.0.0-beta.1.3.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file rangedpumps-0.9.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file refinedstorage-1.10.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file refinedstorageaddons-0.8.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file reliquary-1.18.2-2.0.8.1139.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file repurposed_structures_forge-5.1.14+1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file restrictions-1.18-4.0.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file rftoolsbase-1.18-3.0.9.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file rftoolsbuilder-1.18-4.0.13.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file rftoolscontrol-1.18-5.0.6.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file rftoolspower-1.18-4.0.5.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file rftoolsstorage-1.18-3.0.8.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file rftoolsutility-1.18-4.0.16.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file rhino-forge-1802.1.14-build.190.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file RootsClassic-1.18.2-1.1.24.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file rsgauges-1.18.2-1.2.16.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file RSInfinityBooster-1.18.2-2.1+16.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file rsrequestify-2.2.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file Runelic-Forge-1.18.2-11.0.1.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file ScalableCatsForce-2.13.8-build-4-with-library.jar of type LANGPROVIDER with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file selene-1.18.2-1.17.9.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file shetiphiancore-1.18-3.10.10.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file Shrink-1.18.2-1.3.3.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file silent-gear-1.18.2-2.10.10.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file silent-lib-1.18.2-6.2.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file simplemagnets-1.1.8-forge-mc1.18.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file simplylight-1.18.2-1.4.2-build.31.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file SoL-Carrot-1.18.1-1.12.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file sophisticatedbackpacks-1.18.2-3.17.10.621.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file sophisticatedcore-1.18.2-0.3.7.59.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file sophisticatedstorage-1.18.2-0.3.4.49.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file spark-1.9.11-forge.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file structure_gel-1.18.2-2.4.6.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file structures_compass-1.18.2-1.4.1.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file structurize-1.18.2-1.0.411-ALPHA.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file SuperCircuitMaker2-0.2.9+1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file supermartijn642configlib-1.1.6-forge-mc1.18.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file supermartijn642corelib-1.0.19-forge-mc1.18.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file supplementaries-1.18.2-1.4.8.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file TConstruct-1.18.2-3.5.1.31.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file TerraBlender-forge-1.18.2-1.1.0.99.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file theoneprobe-1.18-5.1.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file thermal_cultivation-1.18.2-1.6.3.11.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file thermal_expansion-1.18.2-1.6.3.13.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file thermal_foundation-1.18.2-1.6.3.28.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file thermal_innovation-1.18.2-1.6.3.12.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file thermal_locomotion-1.18.2-1.6.3.8.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file time-in-a-bottle-2.1.0-mc1.18.1.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file TipTheScales-forge-1.18.2-5.0.6.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file titanium-1.18.2-3.5.6-38.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file TKLib-0.0.23+1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file ToastControl-1.18.2-6.0.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file tombstone-7.4.9-1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file toms_storage-1.18.2-1.3.4.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file ToolBelt-1.18.2-1.18.8.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file torchmaster-18.1.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file trashcans-1.0.15-forge-mc1.18.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file trashslot-forge-1.18.1-11.0.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file twilightforest-1.18.2-4.1.1181-universal.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file universalgrid-1.18.2-1.0321.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file UtilitiX-1.18.2-0.4.6.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file valhelsia_core-1.18.2-0.3.1.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file villagertools-1.18-1.0.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file voidtotem-forge-1.18.2-1.3.1.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file WaterStrainer-1.18.2-13.0.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file waystones-forge-1.18.2-10.1.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file wirelesschargers-1.0.6-forge-mc1.18.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file WitherSkeletonTweaks-1.18.2-7.1.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file xnet-1.18-4.0.5.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file XNetGases-1.18.2-3.0.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file YungsApi-1.18.2-Forge-2.0.8.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file YungsBetterDesertTemples-1.18.2-Forge-1.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file YungsBetterDungeons-1.18.2-Forge-2.1.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file YungsBetterMineshafts-1.18.2-Forge-2.2.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file YungsBetterStrongholds-1.18.2-Forge-2.1.1.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file YungsBetterWitchHuts-1.18.2-Forge-1.0.1.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file YungsBridges-1.18.2-Forge-2.1.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:06] [main/INFO]: Found mod file YungsExtras-1.18.2-Forge-2.1.0.jar of type MOD with provider {mods folder locator at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\mods}
+[18:15:07] [main/WARN]: Mod file C:\Users\andre\Twitch\Minecraft\Install\libraries\net\minecraftforge\fmlcore\1.18.2-40.1.60\fmlcore-1.18.2-40.1.60.jar is missing mods.toml file
+[18:15:07] [main/WARN]: Mod file C:\Users\andre\Twitch\Minecraft\Install\libraries\net\minecraftforge\javafmllanguage\1.18.2-40.1.60\javafmllanguage-1.18.2-40.1.60.jar is missing mods.toml file
+[18:15:07] [main/WARN]: Mod file C:\Users\andre\Twitch\Minecraft\Install\libraries\net\minecraftforge\lowcodelanguage\1.18.2-40.1.60\lowcodelanguage-1.18.2-40.1.60.jar is missing mods.toml file
+[18:15:07] [main/WARN]: Mod file C:\Users\andre\Twitch\Minecraft\Install\libraries\net\minecraftforge\mclanguage\1.18.2-40.1.60\mclanguage-1.18.2-40.1.60.jar is missing mods.toml file
+[18:15:07] [main/INFO]: Found mod file fmlcore-1.18.2-40.1.60.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@7c9b78e3
+[18:15:07] [main/INFO]: Found mod file javafmllanguage-1.18.2-40.1.60.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@7c9b78e3
+[18:15:07] [main/INFO]: Found mod file lowcodelanguage-1.18.2-40.1.60.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@7c9b78e3
+[18:15:07] [main/INFO]: Found mod file mclanguage-1.18.2-40.1.60.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@7c9b78e3
+[18:15:07] [main/INFO]: Found mod file client-1.18.2-20220404.173914-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@7c9b78e3
+[18:15:07] [main/INFO]: Found mod file forge-1.18.2-40.1.60-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@7c9b78e3
+[18:15:07] [main/INFO]: No dependencies to load found. Skipping!
+[18:15:13] [main/INFO]: Compatibility level set to JAVA_17
+[18:15:13] [main/ERROR]: Mixin config tklib.mixin.json does not specify "minVersion" property
+[18:15:13] [main/ERROR]: Mixin config myrtrees-common.mixins.json does not specify "minVersion" property
+[18:15:13] [main/ERROR]: Mixin config supercircuitmaker.mixin.json does not specify "minVersion" property
+[18:15:13] [main/ERROR]: Mixin config moreoverlays.mixin.json does not specify "minVersion" property
+[18:15:13] [main/ERROR]: Mixin config polylib.mixins.json does not specify "minVersion" property
+[18:15:14] [main/INFO]: Successfully loaded Mixin Connector [shetiphian.core.mixins.MixinConnector]
+[18:15:14] [main/INFO]: Successfully loaded Mixin Connector [com.thevortex.allthetweaks.mixin.MixinConnector]
+[18:15:14] [main/INFO]: Successfully loaded Mixin Connector [com.leobeliik.extremesoundmuffler.MixinConnector]
+[18:15:14] [main/INFO]: Successfully loaded Mixin Connector [shetiphian.endertanks.mixins.MixinConnector]
+[18:15:14] [main/INFO]: Launching target 'forgeclient' with arguments [--version, forge-40.1.60, --gameDir, C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2, --assetsDir, C:\Users\andre\Twitch\Minecraft\Install\assets, --uuid, 9deec21f94724c47a5f6f9ae39a9ca5d, --username, AndrewV125, --assetIndex, 1.18, --accessToken, ????????, --clientId, YzM0MzRlZDktOTAxMi00NDYyLWEyZjktMjVlZmRmY2E2ODQz, --xuid, 2535406635041914, --userType, msa, --versionType, release, --width, 1024, --height, 768]
+[18:15:14] [main/WARN]: Reference map 'universalgrid.refmap.json' for universalgrid.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:15:14] [main/WARN]: Reference map 'yungsbridges.refmap.json' for yungsbridges.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:15:14] [main/WARN]: Reference map 'yungsbridges.refmap.json' for yungsbridges_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:15:14] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:15:14] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:15:14] [main/WARN]: Reference map 'compactmachines.refmap.json' for compactmachines.mixin.json could not be read. If this is a development environment you can ignore this message
+[18:15:14] [main/WARN]: Reference map 'myrtrees-common-refmap.json' for myrtrees-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:15:14] [main/WARN]: Reference map 'supercircuitmaker.refmap.json' for supercircuitmaker.mixin.json could not be read. If this is a development environment you can ignore this message
+[18:15:14] [main/WARN]: Reference map 'polylib-common-refmap.json' for polylib.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:15:14] [main/WARN]: Reference map 'bloodmagic.refmap.json' for bloodmagic.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:15:15] [main/INFO]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
+[18:15:15] [main/INFO]: Patching FishingHook#catchingFish
+[18:15:15] [main/WARN]: Error loading class: de/maxhenkel/gravestone/events/DeathEvents (java.lang.ClassNotFoundException: de.maxhenkel.gravestone.events.DeathEvents)
+[18:15:15] [main/WARN]: Error loading class: de/maxhenkel/corpse/events/DeathEvents (java.lang.ClassNotFoundException: de.maxhenkel.corpse.events.DeathEvents)
+[18:15:17] [main/WARN]: @Redirect conflict. Skipping securitycraft.mixins.json:camera.MinecraftMixin->@Redirect::handleKeybinds(Lnet/minecraft/client/Options;Lnet/minecraft/client/CameraType;)V with priority 1100, already redirected by ars_nouveau.mixins.json:camera.MinecraftMixin->@Redirect::handleKeybinds(Lnet/minecraft/client/Options;Lnet/minecraft/client/CameraType;)V with priority 1100
+[18:15:19] [pool-3-thread-1/INFO]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
+[18:15:19] [pool-3-thread-1/INFO]: Lazy DFU
+[18:15:20] [pool-3-thread-1/WARN]: @Redirect conflict. Skipping ars_nouveau.mixins.json:camera.ANServerPlayerMixin->@Redirect::an_tick(Lnet/minecraft/server/level/ServerPlayer;DDDFF)V with priority 1000, already redirected by securitycraft.mixins.json:camera.ServerPlayerMixin->@Redirect::tick(Lnet/minecraft/server/level/ServerPlayer;DDDFF)V with priority 1100
+[18:15:20] [pool-3-thread-1/INFO]: Patching FishingHook#catchingFish
+[18:15:20] [pool-3-thread-1/WARN]: @ModifyConstant conflict. Skipping repurposed_structures.mixins.json:structures.StructurePoolMixin->@ModifyConstant::repurposedstructures_increaseWeightLimitDev(I)I with priority 1000, already redirected by yungsapi.mixins.json:IncreaseStructureWeightLimitMixin->@ModifyConstant::yungsapi_increaseWeightLimit(I)I with priority 1000
+[18:15:21] [pool-3-thread-1/INFO]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/item/EnchantedBookItem
+[18:15:21] [pool-3-thread-1/INFO]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[18:15:21] [pool-3-thread-1/INFO]: Replaced 1 calls to Enchantment#isDiscoverable() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[18:15:22] [Render thread/WARN]: Assets URL 'union:/C:/Users/andre/Twitch/Minecraft/Install/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar%23367!/assets/.mcassetsroot' uses unexpected schema
+[18:15:22] [Render thread/WARN]: Assets URL 'union:/C:/Users/andre/Twitch/Minecraft/Install/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar%23367!/data/.mcassetsroot' uses unexpected schema
+[18:15:22] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:15:22] [Render thread/INFO]: Setting user: AndrewV125
+[18:15:22] [Render thread/INFO]: Loaded default options for options.txt
+[18:15:22] [Render thread/INFO]: Loaded default options for extra-folder
+[18:15:22] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 SNAPSHOT
+[18:15:22] [Render thread/INFO]: Loaded client.properties
+[18:15:22] [Render thread/ERROR]: Quartz OpenGL version search enabled, this may potentially cause issues with some graphics cards, please report issues
+[18:15:22] [Render thread/INFO]: Searching for latest OpenGL version
+[18:15:22] [Render thread/INFO]: Attempting version 4.6 
+[18:15:22] [Render thread/INFO]: SUCCESS
+[18:15:23] [Render thread/INFO]: Reported OpenGL version 4.6
+[18:15:23] [Render thread/INFO]: Quartz Init
+[18:15:23] [Render thread/INFO]: Quartz initializing GLCore
+[18:15:23] [modloading-worker-0/INFO]: Hello PAUCAL! This is FORGE!
+[18:15:23] [modloading-worker-0/WARN]: @Redirect conflict. Skipping securitycraft.mixins.json:camera.LevelRendererMixin->@Redirect::onRepositionCamera(Lnet/minecraft/client/renderer/ViewArea;DD)V with priority 1100, already redirected by ars_nouveau.mixins.json:camera.LevelRendererMixin->@Redirect::onRepositionCamera(Lnet/minecraft/client/renderer/ViewArea;DD)V with priority 1100
+[18:15:23] [PAUCAL Contributors Loading Thread/INFO]: Successfully loaded 32 contributors
+[18:15:24] [modloading-worker-0/INFO]: Loading config: C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\config\cabletiers-common.toml
+[18:15:24] [modloading-worker-0/INFO]: Built config: C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\config\cabletiers-common.toml
+[18:15:24] [modloading-worker-0/INFO]: Loaded config: C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\config\cabletiers-common.toml
+[18:15:24] [modloading-worker-0/INFO]: Loading config: C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\config\universalgrid-common.toml
+[18:15:24] [modloading-worker-0/INFO]: Built config: C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\config\universalgrid-common.toml
+[18:15:24] [modloading-worker-0/INFO]: Loaded config: C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\config\universalgrid-common.toml
+[18:15:24] [modloading-worker-0/INFO]: Registering mod: novillagerdm
+[18:15:24] [modloading-worker-0/INFO]: Scanning classes for industrialforegoing
+[18:15:24] [modloading-worker-0/INFO]: Found FeaturePluginInstance for class CuriosPlugin for plugin curios
+[18:15:24] [modloading-worker-0/INFO]: Constructed class CuriosPlugin for plugin curios for mod industrialforegoing
+[18:15:24] [modloading-worker-0/INFO]: Executing phase CONSTRUCTION for plugin class CuriosPlugin
+[18:15:24] [modloading-worker-0/INFO]: Executing phase PRE_INIT for plugin class CuriosPlugin
+[18:15:25] [modloading-worker-0/INFO]: Executing phase INIT for plugin class CuriosPlugin
+[18:15:25] [modloading-worker-0/INFO]: Executing phase POST_INIT for plugin class CuriosPlugin
+[18:15:25] [modloading-worker-0/INFO]: Initializing Update Checker...
+[18:15:25] [ Iron Furnaces Update Checker/INFO]: Starting Update Check...
+[18:15:25] [ Iron Furnaces Update Checker/INFO]: Update Check done!
+[18:15:25] [ Iron Furnaces Update Checker/INFO]: Iron Furnaces is up to date!
+[18:15:25] [modloading-worker-0/INFO]: Initialized network channel 'multiblock' for mod 'bdlib'
+[18:15:25] [modloading-worker-0/INFO]: Initialized network channel 'misc' for mod 'bdlib'
+[18:15:25] [modloading-worker-0/INFO]: Initialized multiblock manager for advgenerators
+[18:15:25] [modloading-worker-0/INFO]: Initialized network channel 'generators' for mod 'advgenerators'
+[18:15:25] [modloading-worker-0/WARN]: Method overwrite conflict for extractPools in enhancedcelestials.mixins.json:MixinLootTableManager, previously written by potionstudios.byg.mixin.common.world.level.storage.loot.MixinLootTableManager. Skipping method.
+[18:15:27] [modloading-worker-0/INFO]: Processing 3 KiwiModule annotations
+[18:15:29] [modloading-worker-0/WARN]: Config field without expected type, will not validate list content (merchantNames in net.blay09.mods.farmingforblockheads.FarmingForBlockheadsConfigData)
+[18:15:29] [modloading-worker-0/INFO]: Thirdparty integration activated for [theoneprobe,cofh_core,immersiveengineering,computercraft,jei,botania,mekanism,curios,patchouli,create]
+[18:15:29] [modloading-worker-0/INFO]: 14 blocks registered.
+[18:15:29] [modloading-worker-0/INFO]: 29 items registered.
+[18:15:29] [modloading-worker-0/INFO]: 13 tiles registered.
+[18:15:29] [modloading-worker-0/INFO]: 13 containers registered.
+[18:15:30] [modloading-worker-0/INFO]: No shaders mod detected.
+[18:15:30] [modloading-worker-0/INFO]: Loading config: C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\config\creativecrafter-client.toml
+[18:15:30] [modloading-worker-0/INFO]: Built config: C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\config\creativecrafter-client.toml
+[18:15:30] [modloading-worker-0/INFO]: Loaded config: C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\config\creativecrafter-client.toml
+[18:15:31] [Modding Legacy/blue_skies/Supporters thread/INFO]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
+[18:15:31] [modloading-worker-0/INFO]: AdvancedPeripherals says hello!
+[18:15:31] [Modding Legacy/blue_skies/Supporters thread/INFO]: Successfully loaded the Modding Legacy supporters list.
+[18:15:31] [modloading-worker-0/INFO]: Gauges and Switches GIT id #f6675da.
+[18:15:32] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[18:15:32] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[18:15:32] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[18:15:32] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[18:15:32] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[18:15:32] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[18:15:32] [modloading-worker-0/INFO]: Forge mod loading, version 40.1.60, for MC 1.18.2 with MCP 20220404.173914
+[18:15:32] [modloading-worker-0/INFO]: MinecraftForge v40.1.60 Initialized
+[18:15:33] [modloading-worker-0/INFO]: Loaded compatibility for mod Tinkers Construct.
+[18:15:33] [modloading-worker-0/INFO]: Skipped compatibility for mod undergarden.
+[18:15:33] [modloading-worker-0/INFO]: Loaded compatibility for mod Immersive Engineering.
+[18:15:33] [modloading-worker-0/INFO]: Loaded compatibility for mod Curios.
+[18:15:33] [modloading-worker-0/INFO]: Found 3 RS API injection points
+[18:15:33] [modloading-worker-0/INFO]: Injected RS API in com.YTrollman.UniversalGrid.UniversalGrid RSAPI
+[18:15:33] [modloading-worker-0/INFO]: Injected RS API in org.cyclops.integrateddynamicscompat.modcompat.refinedstorage.aspect.RefinedStorageAspects RS
+[18:15:33] [modloading-worker-0/INFO]: Injected RS API in com.refinedmods.refinedstorageaddons.RSAddons RSAPI
+[18:15:34] [modloading-worker-0/INFO]: [inventoryprofilesnext] Inventory Profiles Next - init in Kotlin
+[18:15:34] [modloading-worker-0/INFO]: Registering class observable.net.BetterChannel$PartialPacketBegin
+[18:15:34] [modloading-worker-0/INFO]: Registered class observable.net.BetterChannel$PartialPacketBegin
+[18:15:34] [modloading-worker-0/INFO]: Registering class observable.net.BetterChannel$PartialPacketData
+[18:15:34] [modloading-worker-0/INFO]: Registered class observable.net.BetterChannel$PartialPacketData
+[18:15:34] [modloading-worker-0/INFO]: Registering class observable.net.C2SPacket$InitTPSProfile
+[18:15:34] [modloading-worker-0/INFO]: Registered class observable.net.C2SPacket$InitTPSProfile
+[18:15:34] [modloading-worker-0/INFO]: Registering class observable.net.C2SPacket$RequestTeleport
+[18:15:34] [modloading-worker-0/INFO]: Registered class observable.net.C2SPacket$RequestTeleport
+[18:15:34] [modloading-worker-0/INFO]: Registering class observable.net.C2SPacket$RequestAvailability
+[18:15:34] [modloading-worker-0/INFO]: Registered class observable.net.C2SPacket$RequestAvailability
+[18:15:34] [modloading-worker-0/INFO]: Registering class observable.net.S2CPacket$ProfilingStarted
+[18:15:34] [modloading-worker-0/INFO]: Registered class observable.net.S2CPacket$ProfilingStarted
+[18:15:34] [modloading-worker-0/INFO]: Registering class observable.net.S2CPacket$ProfilingCompleted
+[18:15:34] [modloading-worker-0/INFO]: Registered class observable.net.S2CPacket$ProfilingCompleted
+[18:15:34] [modloading-worker-0/INFO]: Registering class observable.net.S2CPacket$ProfilerInactive
+[18:15:34] [modloading-worker-0/INFO]: Registered class observable.net.S2CPacket$ProfilerInactive
+[18:15:34] [modloading-worker-0/INFO]: Registering class observable.net.S2CPacket$ProfilingResult
+[18:15:34] [modloading-worker-0/INFO]: Registered class observable.net.S2CPacket$ProfilingResult
+[18:15:34] [modloading-worker-0/INFO]: Registering class observable.net.S2CPacket$Availability
+[18:15:34] [modloading-worker-0/INFO]: Registered class observable.net.S2CPacket$Availability
+[18:15:34] [modloading-worker-0/INFO]: Registering class observable.net.S2CPacket$ConsiderProfiling
+[18:15:34] [modloading-worker-0/INFO]: Registered class observable.net.S2CPacket$ConsiderProfiling
+[18:15:35] [modloading-worker-0/INFO]: FTBChunks integration loaded.
+[18:15:35] [modloading-worker-0/INFO]: Waystones integration loaded.
+[18:15:35] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[18:15:36] [modloading-worker-0/INFO]: Here we go! Launching Dungeon Crawl 2.3.10...
+[18:15:36] [modloading-worker-0/INFO]: Looking for KubeJS plugins...
+[18:15:36] [modloading-worker-0/INFO]: Found plugin source kubejs
+[18:15:36] [modloading-worker-0/INFO]: Found plugin source lazierae2
+[18:15:36] [modloading-worker-0/INFO]: Found plugin source ftbic
+[18:15:36] [modloading-worker-0/INFO]: Found plugin source ftbquests
+[18:15:36] [modloading-worker-0/INFO]: Found plugin source kubejs_create
+[18:15:36] [modloading-worker-0/INFO]: Found plugin source kubejs_immersive_engineering
+[18:15:36] [modloading-worker-0/INFO]: Found plugin source kubejs_mekanism
+[18:15:36] [modloading-worker-0/INFO]: Found plugin source ponderjs
+[18:15:36] [modloading-worker-0/INFO]: Found plugin source ftbchunks
+[18:15:36] [modloading-worker-0/INFO]: Done in 27.13 ms
+[18:15:36] [modloading-worker-0/INFO]: Loaded common.properties
+[18:15:37] [modloading-worker-0/INFO]: Loaded script startup_scripts:customMekanism.js in 0.087 s
+[18:15:37] [modloading-worker-0/INFO]: Loaded script startup_scripts:custom_items.js in 0.001 s
+[18:15:37] [modloading-worker-0/INFO]: Loaded script startup_scripts:worldgen.js in 0.003 s
+[18:15:37] [modloading-worker-0/INFO]: Loaded 3/3 KubeJS startup scripts in 0.223 s
+[18:15:37] [modloading-worker-0/INFO]: Loaded script client_scripts:constants.js in 0.003 s
+[18:15:37] [modloading-worker-0/INFO]: Loaded script client_scripts:jei_info.js in 0.0 s
+[18:15:37] [modloading-worker-0/INFO]: Loaded script client_scripts:jei_removals.js in 0.017 s
+[18:15:37] [modloading-worker-0/INFO]: Loaded script client_scripts:ponder/bigger_reactors.js in 0.007 s
+[18:15:37] [modloading-worker-0/INFO]: Loaded script client_scripts:ponder/corail.js in 0.004 s
+[18:15:37] [modloading-worker-0/INFO]: Loaded script client_scripts:ponder/forbiddenarcanus.js in 0.004 s
+[18:15:37] [modloading-worker-0/INFO]: Loaded script client_scripts:ponder/pylons.js in 0.004 s
+[18:15:37] [modloading-worker-0/INFO]: Loaded 7/7 KubeJS client scripts in 0.066 s
+[18:15:38] [modloading-worker-0/INFO]: Registered plugin: com.blakebr0.mysticalagriculture.lib.ModCorePlugin
+[18:15:38] [modloading-worker-0/INFO]: Registered plugin: com.blakebr0.mysticalcustomization.lib.ModCorePlugin
+[18:15:38] [modloading-worker-0/INFO]: Registered plugin: com.blakebr0.mysticalagradditions.lib.ModCorePlugin
+[18:15:38] [modloading-worker-0/WARN]: Config field without expected type, will not validate list content (compressBlacklist in net.blay09.mods.craftingtweaks.config.CraftingTweaksConfigData$Common)
+[18:15:38] [modloading-worker-0/WARN]: Config field without expected type, will not validate list content (disabledAddons in net.blay09.mods.craftingtweaks.config.CraftingTweaksConfigData$Client)
+[18:15:38] [modloading-worker-0/INFO]: Loaded config file.
+[18:15:38] [modloading-worker-0/INFO]: Saved config file.
+[18:15:38] [modloading-worker-0/INFO]: Scanning classes for titanium
+[18:15:39] [modloading-worker-0/INFO]: Registering mod: pylons
+[18:15:39] [modloading-worker-0/INFO]: Registered 1 network packets
+[18:15:39] [modloading-worker-0/INFO]: Engineer's Decor GIT id #e59a940.
+[18:15:39] [modloading-worker-0/INFO]: Scanning classes for functionalstorage
+[18:15:39] [modloading-worker-0/INFO]: Found FeaturePluginInstance for class TOPPlugin for plugin theoneprobe
+[18:15:39] [modloading-worker-0/INFO]: Constructed class TOPPlugin for plugin theoneprobe for mod functionalstorage
+[18:15:39] [modloading-worker-0/INFO]: Executing phase CONSTRUCTION for plugin class TOPPlugin
+[18:15:39] [modloading-worker-0/INFO]: Executing phase PRE_INIT for plugin class TOPPlugin
+[18:15:39] [modloading-worker-0/INFO]: Executing phase INIT for plugin class TOPPlugin
+[18:15:39] [modloading-worker-0/INFO]: Executing phase POST_INIT for plugin class TOPPlugin
+[18:15:39] [modloading-worker-0/INFO]: [BetterF3] Starting...
+[18:15:39] [modloading-worker-0/INFO]: [BetterF3] Loading...
+[18:15:39] [modloading-worker-0/INFO]: [BetterF3] All done!
+[18:15:39] [modloading-worker-0/INFO]: ExpandAbility here, who dis?
+[18:15:40] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:40] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `chipped_anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:40] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `damaged_anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:40] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `enchanting_table`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:40] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `enchanting_table`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:40] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `spawner`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:40] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `cactus`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:40] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `cactus`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:40] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `sugar_cane`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:40] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `sugar_cane`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:40] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `bamboo`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:40] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `bamboo`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:40] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `fletching_table`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:40] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `fletching_table`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:40] [Render thread/INFO]: missing extension for "Oh Biome You'll Go" recipes
+[18:15:43] [Render thread/INFO]: HELLO from Register Block
+[18:15:46] [FTB Backups Config Watcher 0/INFO]: Config at C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\config\ftbbackups2.json has changed, reloaded!
+[18:15:47] [Render thread/INFO]: Immersive Engineering also installed ...
+[18:15:47] [Render thread/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/configured_feature / evilcraft:stone_netherfish]' to registry
+[18:15:47] [Render thread/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/configured_feature / evilcraft:stone_nether_silverfish_extra]' to registry
+[18:15:47] [Render thread/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/placed_feature / evilcraft:stone_netherfish]' to registry
+[18:15:47] [Render thread/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/placed_feature / evilcraft:stone_nether_silverfish_extra]' to registry
+[18:15:47] [Render thread/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/configured_feature / evilcraft:stone_netherfish]' to registry
+[18:15:47] [Render thread/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/configured_feature / evilcraft:stone_nether_silverfish_extra]' to registry
+[18:15:47] [Render thread/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/placed_feature / evilcraft:stone_netherfish]' to registry
+[18:15:47] [Render thread/ERROR]: Adding duplicate key 'ResourceKey[minecraft:worldgen/placed_feature / evilcraft:stone_nether_silverfish_extra]' to registry
+[18:15:47] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:47] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `chipped_anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:47] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `damaged_anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:47] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `spawner`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:47] [Render thread/INFO]: Registered BlockItems
+[18:15:47] [Render thread/INFO]: Registered compostable Items
+[18:15:48] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `iron_horse_armor`, expected `cofh_core`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:48] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `golden_horse_armor`, expected `cofh_core`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:48] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `diamond_horse_armor`, expected `cofh_core`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:48] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `leather_horse_armor`, expected `cofh_core`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:48] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `shield`, expected `cofh_core`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:48] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `lantern`, expected `additionallanterns`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:48] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `shulker_shell`, expected `supplementaries`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:49] [Render thread/WARN]: Registry mekanism:slurry: The object [Slurry: alltheores:dirty_aluminum] has been registered twice for the same name alltheores:dirty_aluminum.
+[18:15:49] [Render thread/WARN]: Registry mekanism:slurry: The object [Slurry: alltheores:dirty_nickel] has been registered twice for the same name alltheores:dirty_nickel.
+[18:15:49] [Render thread/WARN]: Registry mekanism:slurry: The object [Slurry: alltheores:dirty_platinum] has been registered twice for the same name alltheores:dirty_platinum.
+[18:15:49] [Render thread/WARN]: Registry mekanism:slurry: The object [Slurry: alltheores:dirty_silver] has been registered twice for the same name alltheores:dirty_silver.
+[18:15:49] [Render thread/WARN]: Registry mekanism:slurry: The object [Slurry: alltheores:dirty_tin] has been registered twice for the same name alltheores:dirty_tin.
+[18:15:49] [Render thread/WARN]: Registry mekanism:slurry: The object [Slurry: alltheores:dirty_zinc] has been registered twice for the same name alltheores:dirty_zinc.
+[18:15:49] [Render thread/WARN]: Registry mekanism:slurry: The object [Slurry: alltheores:clean_aluminum] has been registered twice for the same name alltheores:clean_aluminum.
+[18:15:49] [Render thread/WARN]: Registry mekanism:slurry: The object [Slurry: alltheores:clean_nickel] has been registered twice for the same name alltheores:clean_nickel.
+[18:15:49] [Render thread/WARN]: Registry mekanism:slurry: The object [Slurry: alltheores:clean_platinum] has been registered twice for the same name alltheores:clean_platinum.
+[18:15:49] [Render thread/WARN]: Registry mekanism:slurry: The object [Slurry: alltheores:clean_silver] has been registered twice for the same name alltheores:clean_silver.
+[18:15:49] [Render thread/WARN]: Registry mekanism:slurry: The object [Slurry: alltheores:clean_tin] has been registered twice for the same name alltheores:clean_tin.
+[18:15:49] [Render thread/WARN]: Registry mekanism:slurry: The object [Slurry: alltheores:clean_zinc] has been registered twice for the same name alltheores:clean_zinc.
+[18:15:49] [Render thread/INFO]: Potentially Dangerous alternative prefix `domum_ornamentum` for name `architects_cutter`, expected `minecolonies`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:50] [Render thread/INFO]: Attempting to register Tile Entities
+[18:15:50] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `bane_of_arthropods`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:50] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `smite`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:50] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `sharpness`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:50] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `protection`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:50] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `fire_protection`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:50] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `blast_protection`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:50] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `projectile_protection`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:50] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `feather_falling`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:50] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `protection`, expected `ensorcellation`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:50] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `blast_protection`, expected `ensorcellation`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:50] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `feather_falling`, expected `ensorcellation`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:50] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `fire_protection`, expected `ensorcellation`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:50] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `projectile_protection`, expected `ensorcellation`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:50] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `fire_aspect`, expected `ensorcellation`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:50] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `frost_walker`, expected `ensorcellation`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:50] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `knockback`, expected `ensorcellation`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:50] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `looting`, expected `ensorcellation`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:50] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `thorns`, expected `ensorcellation`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:50] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `mending`, expected `ensorcellation`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:50] [Render thread/INFO]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[18:15:50] [Render thread/INFO]: Replaced 1 calls to Enchantment#isTreasureOnly() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[18:15:50] [Render thread/INFO]: Replaced 1 calls to Enchantment#isTradeable() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[18:15:50] [Render thread/INFO]: Potentially Dangerous alternative prefix `evilcraft` for name `blood`, expected `integratedterminals`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:50] [Render thread/INFO]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_flowing`, expected `integratedterminals`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:50] [Render thread/INFO]: Potentially Dangerous alternative prefix `evilcraft` for name `poison`, expected `integratedterminals`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:50] [Render thread/INFO]: Potentially Dangerous alternative prefix `evilcraft` for name `poison_flowing`, expected `integratedterminals`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:50] [Render thread/INFO]: Potentially Dangerous alternative prefix `integrateddynamics` for name `menril_resin`, expected `integratedterminals`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:50] [Render thread/INFO]: Potentially Dangerous alternative prefix `integrateddynamics` for name `menril_resin_flowing`, expected `integratedterminals`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:50] [Render thread/INFO]: Potentially Dangerous alternative prefix `integrateddynamics` for name `liquid_chorus`, expected `integratedterminals`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:50] [Render thread/INFO]: Potentially Dangerous alternative prefix `integrateddynamics` for name `liquid_chorus_flowing`, expected `integratedterminals`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:50] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:50] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[18:15:51] [Render thread/INFO]: 2205 possible Broom base combinations are ready for flying!
+[18:15:51] [Render thread/INFO]: Enhanced Celestials registered: minecraft:sound_event
+[18:15:53] [Render thread/INFO]: Block color registration complete.
+[18:15:53] [Render thread/INFO]: Item color registration complete.
+[18:15:53] [Render thread/INFO]: Registered material modifier silentgear:grade
+[18:15:53] [Render thread/INFO]: Registered material modifier silentgear:starcharged
+[18:15:54] [Render thread/INFO]: "C:\Users\andre\Twitch\Minecraft\Instances\All the Mods 7 - ATM7 - 1.18.2\config\byg\growing-patterns.json5" was read.
+[18:15:54] [Render thread/INFO]: Registered Particle Factories
+[18:15:54] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[18:15:55] [Render thread/WARN]: Could not locate JEI keybindings, lookups in books may not work
+[18:15:56] [Render thread/INFO]: Reloading ResourceManager: Default, Mod Resources, Supplementaries Generated Pack, resources, KubeJS Resource Pack [assets]
+[18:15:56] [Render thread/ERROR]: Could not properly generate Hanging Sign model for Block{supplementaries:myrtrees/hanging_sign_rubberwood}. Falling back to planks texture : java.io.FileNotFoundException: Could not find any texture associated to the given block myrtrees:rubberwood_log
+[18:15:56] [Render thread/INFO]: Generated runtime CLIENT_RESOURCES for pack Supplementaries Generated Pack in: 454 ms
+[18:15:56] [Render thread/INFO]: Loaded default options for keymappings
+[18:15:57] [Render thread/ERROR]: Reported exception thrown!
+net.minecraft.ReportedException: Rendering overlay
+	at net.minecraft.client.renderer.GameRenderer.m_109093_(GameRenderer.java:886) ~[client-1.18.2-20220404.173914-srg.jar%23367!/:?]
+	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1044) ~[client-1.18.2-20220404.173914-srg.jar%23367!/:?]
+	at net.minecraft.client.Minecraft.m_91374_(Minecraft.java:663) ~[client-1.18.2-20220404.173914-srg.jar%23367!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:205) ~[client-1.18.2-20220404.173914-srg.jar%23367!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:31) ~[fmlloader-1.18.2-40.1.60.jar%2317!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149) [bootstraplauncher-1.0.0.jar:?]
+Caused by: net.minecraftforge.fml.config.ConfigFileTypeHandler$ConfigLoadingException: Failed loading config file kiwi-client.toml of type CLIENT for modid kiwi
+	at net.minecraftforge.fml.config.ConfigFileTypeHandler.lambda$reader$1(ConfigFileTypeHandler.java:47) ~[fmlcore-1.18.2-40.1.60.jar%23368!/:?]
+	at net.minecraftforge.fml.config.ConfigTracker.openConfig(ConfigTracker.java:60) ~[fmlcore-1.18.2-40.1.60.jar%23368!/:?]
+	at net.minecraftforge.fml.config.ConfigTracker.lambda$loadConfigs$1(ConfigTracker.java:50) ~[fmlcore-1.18.2-40.1.60.jar%23368!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2131) ~[?:?]
+	at net.minecraftforge.fml.config.ConfigTracker.loadConfigs(ConfigTracker.java:50) ~[fmlcore-1.18.2-40.1.60.jar%23368!/:?]
+	at net.minecraftforge.fml.core.ModStateProvider.lambda$new$1(ModStateProvider.java:33) ~[forge-1.18.2-40.1.60-universal.jar%23372!/:?]
+	at net.minecraftforge.fml.DistExecutor.unsafeRunWhenOn(DistExecutor.java:111) ~[fmlcore-1.18.2-40.1.60.jar%23368!/:?]
+	at net.minecraftforge.fml.core.ModStateProvider.lambda$new$3(ModStateProvider.java:33) ~[forge-1.18.2-40.1.60-universal.jar%23372!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$dispatchAndHandleError$20(ModLoader.java:186) ~[fmlcore-1.18.2-40.1.60.jar%23368!/:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.dispatchAndHandleError(ModLoader.java:186) ~[fmlcore-1.18.2-40.1.60.jar%23368!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$loadMods$14(ModLoader.java:170) ~[fmlcore-1.18.2-40.1.60.jar%23368!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.loadMods(ModLoader.java:170) ~[fmlcore-1.18.2-40.1.60.jar%23368!/:?]
+	at net.minecraftforge.client.loading.ClientModLoader.lambda$startModLoading$5(ClientModLoader.java:121) ~[forge-1.18.2-40.1.60-universal.jar%23372!/:?]
+	at net.minecraftforge.client.loading.ClientModLoader.lambda$createRunnableWithCatch$4(ClientModLoader.java:112) ~[forge-1.18.2-40.1.60-universal.jar%23372!/:?]
+	at net.minecraftforge.client.loading.ClientModLoader.startModLoading(ClientModLoader.java:121) ~[forge-1.18.2-40.1.60-universal.jar%23372!/:?]
+	at net.minecraftforge.client.loading.ClientModLoader.lambda$onResourceReload$2(ClientModLoader.java:103) ~[forge-1.18.2-40.1.60-universal.jar%23372!/:?]
+	at net.minecraftforge.client.loading.ClientModLoader.lambda$createRunnableWithCatch$4(ClientModLoader.java:112) ~[forge-1.18.2-40.1.60-universal.jar%23372!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: com.electronwill.nightconfig.core.io.ParsingException: Not enough data available
+	at com.electronwill.nightconfig.core.io.ParsingException.notEnoughData(ParsingException.java:22) ~[core-3.6.4.jar%237!/:?]
+	at com.electronwill.nightconfig.core.io.ReaderInput.directReadChar(ReaderInput.java:36) ~[core-3.6.4.jar%237!/:?]
+	at com.electronwill.nightconfig.core.io.AbstractInput.readChar(AbstractInput.java:49) ~[core-3.6.4.jar%237!/:?]
+	at com.electronwill.nightconfig.core.io.AbstractInput.readCharsUntil(AbstractInput.java:123) ~[core-3.6.4.jar%237!/:?]
+	at com.electronwill.nightconfig.toml.TableParser.parseKey(TableParser.java:166) ~[toml-3.6.4.jar%238!/:?]
+	at com.electronwill.nightconfig.toml.TableParser.parseDottedKey(TableParser.java:145) ~[toml-3.6.4.jar%238!/:?]
+	at com.electronwill.nightconfig.toml.TableParser.parseNormal(TableParser.java:55) ~[toml-3.6.4.jar%238!/:?]
+	at com.electronwill.nightconfig.toml.TomlParser.parse(TomlParser.java:44) ~[toml-3.6.4.jar%238!/:?]
+	at com.electronwill.nightconfig.toml.TomlParser.parse(TomlParser.java:37) ~[toml-3.6.4.jar%238!/:?]
+	at com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:113) ~[core-3.6.4.jar%237!/:?]
+	at com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:219) ~[core-3.6.4.jar%237!/:?]
+	at com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:202) ~[core-3.6.4.jar%237!/:?]
+	at com.electronwill.nightconfig.core.file.WriteSyncFileConfig.load(WriteSyncFileConfig.java:73) ~[core-3.6.4.jar%237!/:?]
+	at com.electronwill.nightconfig.core.file.AutosaveCommentedFileConfig.load(AutosaveCommentedFileConfig.java:85) ~[core-3.6.4.jar%237!/:?]
+	at net.minecraftforge.fml.config.ConfigFileTypeHandler.lambda$reader$1(ConfigFileTypeHandler.java:43) ~[fmlcore-1.18.2-40.1.60.jar%23368!/:?]
+	at net.minecraftforge.fml.config.ConfigTracker.openConfig(ConfigTracker.java:60) ~[fmlcore-1.18.2-40.1.60.jar%23368!/:?]
+	at net.minecraftforge.fml.config.ConfigTracker.lambda$loadConfigs$1(ConfigTracker.java:50) ~[fmlcore-1.18.2-40.1.60.jar%23368!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at java.util.Collections$SynchronizedCollection.forEach(Collections.java:2131) ~[?:?]
+	at net.minecraftforge.fml.config.ConfigTracker.loadConfigs(ConfigTracker.java:50) ~[fmlcore-1.18.2-40.1.60.jar%23368!/:?]
+	at net.minecraftforge.fml.core.ModStateProvider.lambda$new$1(ModStateProvider.java:33) ~[forge-1.18.2-40.1.60-universal.jar%23372!/:?]
+	at net.minecraftforge.fml.DistExecutor.unsafeRunWhenOn(DistExecutor.java:111) ~[fmlcore-1.18.2-40.1.60.jar%23368!/:?]
+	at net.minecraftforge.fml.core.ModStateProvider.lambda$new$3(ModStateProvider.java:33) ~[forge-1.18.2-40.1.60-universal.jar%23372!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$dispatchAndHandleError$20(ModLoader.java:186) ~[fmlcore-1.18.2-40.1.60.jar%23368!/:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.dispatchAndHandleError(ModLoader.java:186) ~[fmlcore-1.18.2-40.1.60.jar%23368!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$loadMods$14(ModLoader.java:170) ~[fmlcore-1.18.2-40.1.60.jar%23368!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.loadMods(ModLoader.java:170) ~[fmlcore-1.18.2-40.1.60.jar%23368!/:?]
+	at net.minecraftforge.client.loading.ClientModLoader.lambda$startModLoading$5(ClientModLoader.java:121) ~[forge-1.18.2-40.1.60-universal.jar%23372!/:?]
+	at net.minecraftforge.client.loading.ClientModLoader.lambda$createRunnableWithCatch$4(ClientModLoader.java:112) ~[forge-1.18.2-40.1.60-universal.jar%23372!/:?]
+	at net.minecraftforge.client.loading.ClientModLoader.startModLoading(ClientModLoader.java:121) ~[forge-1.18.2-40.1.60-universal.jar%23372!/:?]
+	at net.minecraftforge.client.loading.ClientModLoader.lambda$onResourceReload$2(ClientModLoader.java:103) ~[forge-1.18.2-40.1.60-universal.jar%23372!/:?]
+	at net.minecraftforge.client.loading.ClientModLoader.lambda$createRunnableWithCatch$4(ClientModLoader.java:112) ~[forge-1.18.2-40.1.60-universal.jar%23372!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[18:15:57] [Render thread/FATAL]: Preparing crash report with UUID cfb15fb1-fd27-4191-9946-5b42df11ab13
+[18:15:57] [Render thread/FATAL]: Preparing crash report with UUID 4018d36c-c373-4e82-b996-bb740c765ff0
